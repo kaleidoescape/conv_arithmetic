@@ -1,3 +1,7 @@
+# Augmented conv arithmetic visualizations
+
+The original technical report from Duloulin & Visin had code that generated visualizations for square graphics of CNNs. I have augmented this code to work with rectangular shapes instead.
+
 # Convolution arithmetic
 
 A technical report on convolution arithmetic in the context of deep learning.
